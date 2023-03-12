@@ -8,6 +8,6 @@ public class BaseController {
 
         @GetMapping
         private String info () {
-            return "Server Ativo";
+            return "Servidor Ativo";
         }
 }
